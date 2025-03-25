@@ -34,7 +34,7 @@ You can view the project live here:
 ## Technologies
 
 - React
-- Tailwindcss
+- Tailwind css
 - React Router
 - Redux
 
